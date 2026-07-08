@@ -55,6 +55,13 @@ There are no shared liquidity pools in the protocol. Each lender manages their o
 - English version: [docs.tonlender.com/en](https://docs.tonlender.com/en)
 - Русская версия: [docs.tonlender.com/ru](https://docs.tonlender.com/ru)
 
+## Official Channels
+
+- RU: [t.me/tonlender_ru](https://t.me/tonlender_ru)
+- EN: [t.me/tonlender_en](https://t.me/tonlender_en)
+- Support: [@tonlender_support_bot](https://t.me/tonlender_support_bot)
+- X: [@tonlender](https://x.com/tonlender)
+
 ## Mainnet Contract
 
 - `LoanController`: `EQBOKsLNkny2Y9HKSnQ6OyVj42pvZ8-btU62hjZEwmTYWluy`
@@ -125,6 +132,13 @@ TonLender соединяет две стороны рынка:
 
 - Русская версия: [docs.tonlender.com/ru](https://docs.tonlender.com/ru)
 - English version: [docs.tonlender.com/en](https://docs.tonlender.com/en)
+
+## Официальные Каналы
+
+- RU: [t.me/tonlender_ru](https://t.me/tonlender_ru)
+- EN: [t.me/tonlender_en](https://t.me/tonlender_en)
+- Support: [@tonlender_support_bot](https://t.me/tonlender_support_bot)
+- X: [@tonlender](https://x.com/tonlender)
 
 ## Mainnet Contract
 
