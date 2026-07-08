@@ -1,0 +1,44 @@
+{
+  "name": "tonlender-sdk",
+  "version": "0.1.0",
+  "description": "TypeScript SDK and Tolk sources for the TonLender LoanVault contract — P2P NFT-backed lending on TON.",
+  "license": "MIT",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "files": [
+    "dist",
+    "contracts",
+    "docs",
+    "README.md",
+    "LICENSE"
+  ],
+  "scripts": {
+    "build": "tsc",
+    "prepublishOnly": "npm run build"
+  },
+  "keywords": [
+    "ton",
+    "tolk",
+    "nft",
+    "lending",
+    "loanvault",
+    "tonlender",
+    "smart-contract",
+    "blockchain"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tonlender/tonlender-sdk.git"
+  },
+  "homepage": "https://tonlender.com",
+  "peerDependencies": {
+    "@ton/core": ">=0.60.0"
+  },
+  "devDependencies": {
+    "@ton/core": "^0.62.0",
+    "typescript": "^5.3.0"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
